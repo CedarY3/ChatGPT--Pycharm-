@@ -6,7 +6,7 @@
 通过下述url获取：https://platform.openai.com/account/api-keys
 然后将您的API key 填写在 config.py 的第4行
 
-### 2，网络代理
+### 2，科学魔法
 一般来说只需要改写端口号就行，以cls为例，主页选项的第一项即是端口。
 您可以将其设为7890，或将config.py的第23行proxies的7890改为您的端口号。
 
